@@ -30,16 +30,13 @@ identidade:
   sistemas_operacionais: ["Windows", "Linux"]
 
 sistema_operacional:
-  status: "Modo aprendizado: ATIVADO"
   interesses:
     - "Desenvolvimento Front-end & Back-end"
     - "Desenvolvimento Web"
     - "Desenvolvimento de Jogos"
     - "Machine Learning"
 
-filosofia: >
-  "Cada linha de código e um passo
-   mais perto do proximo nivel."
+
 ```
 
 <br clear="right"/>
